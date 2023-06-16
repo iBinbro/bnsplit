@@ -2694,4 +2694,4 @@ var s=A.abm
 if(typeof dartMainRunner==="function")dartMainRunner(s,[])
 else s([])})})()
 
-//@ sourceURL=https://ibinbro.github.io/bnsplit/main.dart.c4f53096.js
+//@ sourceURL=https://ibinbro.github.io/bnsplit/main.dart.788851f3.js
