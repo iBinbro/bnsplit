@@ -5,25 +5,25 @@
     
     // window.mainjsManifest
     var mainjsManifest = {
-  "main.dart.js": "main.dart.d6b29561.js",
-  "main.dart_0.js": "main.dart_0.cc5cff46.js",
-  "main.dart_1.js": "main.dart_1.9fa41a0d.js",
-  "main.dart_2.js": "main.dart_2.2a2f1141.js",
-  "main.dart_3.js": "main.dart_3.72f83b3d.js",
-  "main.dart_4.js": "main.dart_4.faa02b81.js",
-  "main.dart_5.js": "main.dart_5.188fdf97.js"
+  "main.dart.js": "main.dart.9025a80d.js",
+  "main.dart_0.js": "main.dart_0.967199b5.js",
+  "main.dart_1.js": "main.dart_1.42e6f1bc.js",
+  "main.dart_2.js": "main.dart_2.93145d46.js",
+  "main.dart_3.js": "main.dart_3.a18cd9c1.js",
+  "main.dart_4.js": "main.dart_4.11cbd051.js",
+  "main.dart_5.js": "main.dart_5.26f0135b.js"
 };
     
     // window.hashFileManifest
     var hashFileManifest = {
-  "assets/AssetManifest.json": "assets/AssetManifest.aa198ec0.json",
+  "assets/AssetManifest.json": "assets/AssetManifest.5c8193a4.json",
   "assets/FontManifest.json": "assets/FontManifest.d7517139.json",
-  "assets/assets/b1.webp": "assets/assets/b1.24a6975b.webp",
-  "assets/assets/b2.webp": "assets/assets/b2.213eeaa9.webp",
-  "assets/assets/b3.webp": "assets/assets/b3.454d9ebb.webp",
-  "assets/assets/b4.webp": "assets/assets/b4.ed224ac0.webp",
-  "assets/assets/b5.webp": "assets/assets/b5.0af857fb.webp",
-  "assets/assets/b6.webp": "assets/assets/b6.b5f42f16.webp",
+  "assets/assets/b1.svg": "assets/assets/b1.6484087f.svg",
+  "assets/assets/b2.svg": "assets/assets/b2.fd5e6e9b.svg",
+  "assets/assets/b3.svg": "assets/assets/b3.4980e4d2.svg",
+  "assets/assets/b4.svg": "assets/assets/b4.4dc45379.svg",
+  "assets/assets/b5.svg": "assets/assets/b5.e2905b3b.svg",
+  "assets/assets/b6.svg": "assets/assets/b6.4aa41c34.svg",
   "assets/assets/buy_vip_back.webp": "assets/assets/buy_vip_back.32bdd754.webp",
   "assets/assets/buy_vip_card_top.webp": "assets/assets/buy_vip_card_top.be68e98a.webp",
   "assets/assets/cube_left.webp": "assets/assets/cube_left.9b9b8e84.webp",
@@ -48,13 +48,13 @@
   "assets/assets/vip/sssvip.webp": "assets/assets/vip/sssvip.39a480d6.webp",
   "favicon.png": "favicon.5dcef449.png",
   "flutter.js": "flutter.822458aa.js",
-  "main.dart.js": "main.dart.d6b29561.js",
-  "main.dart_0.js": "main.dart_0.cc5cff46.js",
-  "main.dart_1.js": "main.dart_1.9fa41a0d.js",
-  "main.dart_2.js": "main.dart_2.2a2f1141.js",
-  "main.dart_3.js": "main.dart_3.72f83b3d.js",
-  "main.dart_4.js": "main.dart_4.faa02b81.js",
-  "main.dart_5.js": "main.dart_5.188fdf97.js",
+  "main.dart.js": "main.dart.9025a80d.js",
+  "main.dart_0.js": "main.dart_0.967199b5.js",
+  "main.dart_1.js": "main.dart_1.42e6f1bc.js",
+  "main.dart_2.js": "main.dart_2.93145d46.js",
+  "main.dart_3.js": "main.dart_3.a18cd9c1.js",
+  "main.dart_4.js": "main.dart_4.11cbd051.js",
+  "main.dart_5.js": "main.dart_5.26f0135b.js",
   "manifest.json": "manifest.0abe5cbd.json"
 };
     
