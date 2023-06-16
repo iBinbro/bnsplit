@@ -3832,7 +3832,7 @@ f.toString
 if(i instanceof f){f=i
 f.toString
 h=f
-if(h.status===404&&b==="AssetManifest.1c99a4ad.json"){$.i_().$1("Asset manifest does not exist at `"+A.h(d)+"` \u2013 ignoring.")
+if(h.status===404&&b==="AssetManifest.576e6a25.json"){$.i_().$1("Asset manifest does not exist at `"+A.h(d)+"` \u2013 ignoring.")
 q=A.jB(new Uint8Array(A.Qh(B.a8.gqk().dV("{}"))).buffer,0,null)
 s=1
 break}f=A.and(h)

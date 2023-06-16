@@ -19592,7 +19592,7 @@ f.toString
 if(i instanceof f){f=i
 f.toString
 h=f
-if(h.status===404&&b==="AssetManifest.1c99a4ad.json"){$.i_().$1("Asset manifest does not exist at `"+A.h(d)+"` \u2013 ignoring.")
+if(h.status===404&&b==="AssetManifest.576e6a25.json"){$.i_().$1("Asset manifest does not exist at `"+A.h(d)+"` \u2013 ignoring.")
 q=A.jB(new Uint8Array(A.Qh(B.a8.gqk().dV("{}"))).buffer,0,null)
 s=1
 break}f=A.and(h)
@@ -42330,7 +42330,7 @@ glc(){return this.a},
 xN(a){var s,r={},q=a.a
 if(q==null)q=$.QA()
 r.a=r.b=null
-q.a04("AssetManifest.1c99a4ad.json",A.aul(),t.jd).by(new A.R0(r,this,a,q),t.H).ic(new A.R1(r))
+q.a04("AssetManifest.576e6a25.json",A.aul(),t.jd).by(new A.R0(r,this,a,q),t.H).ic(new A.R1(r))
 s=r.a
 if(s!=null)return s
 s=new A.aq($.ah,t.hv)
@@ -66925,4 +66925,4 @@ var s=A.abm
 if(typeof dartMainRunner==="function")dartMainRunner(s,[])
 else s([])})})()
 
-//@ sourceURL=https://ibinbro.github.io/bnsplit/main.dart.788851f3.js
+//@ sourceURL=https://ibinbro.github.io/bnsplit/main.dart.f60bb557.js
