@@ -36,14 +36,21 @@
   <script src="https://ibinbro.github.io/bnsplit/flutter_web_optimizer.68e8beb6.js" defer=""></script>
 <script>
     // The value below is injected by flutter build, do not touch.
-    var serviceWorkerVersion = '266921530';
+    var serviceWorkerVersion = '4258511577';
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="https://ibinbro.github.io/bnsplit/flutter.822458aa.js" defer=""></script>
+
+  <style> .loading{ display: flex; align-items: center; justify-content: center; height: 100vh; } .loader{ border: 9px solid #ffffff; border-radius: 50%; border-top: 9px solid #3498db; width: 90px; height: 90px; animation: spin 1s linear infinite; } @keyframes spin{ 0% {transform: rotate(0deg);} 100% {transform: rotate(360deg);} } </style>
 </head>
 <body>
   <script>
+<div id="loading" class="loading"> <div class="loader"></div> </div>
+<script>
     window.addEventListener('load', function(ev) {
+
+      var loading = document.querySelector("#loading");
+
       // Download main.dart.js
       _flutter.loader.loadEntrypoint({
         serviceWorker: {
@@ -51,7 +58,15 @@
         },
         onEntrypointLoaded: function(engineInitializer) {
           engineInitializer.initializeEngine().then(function(appRunner) {
+
+            loading.remove();
+
             appRunner.runApp();
+          })
+          .then(function(appRunner) {
+            window.setTimeout(function () {
+              loading.remove();
+            }, 200);
           });
         }
       });
