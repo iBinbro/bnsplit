@@ -34069,7 +34069,7 @@ a6=a6.a
 a6===$&&A.b()
 return A.iE(B.aV,A.a([d4,new A.uE(new A.q4(new A.vs(d5,d6,B.Bt,b1),B.av,B.av,new A.MT(b1,b1,1/0,56),b1),new A.vu(d6,A.a([h,A.ah_(A.c4(A.a([s,r,A.az(b1,A.c4(A.a([b,a,a2,a0,a3,A.az(b1,A.cq(A.a([a7,A.c4(A.a([a1,A.cD(b1,2*(a8/a6.a),b1),A.be(c8,b1,b1,b1,A.b_(b1,b1,B.aD,b1,b1,b1,b1,b1,b1,b1,b1,14*$.p().gaZ(),b1,b1,b1,b1,b1,!0,b1,b1,b1,b1,b1,b1,b1,b1),b1,b1)],j),B.ae,B.w,B.r)],j),B.y,B.w,B.r),b1,b1,b1,new A.ap(0,0,0,24*(a5/a4.a)),b1,b1)],j),B.y,B.w,B.r),b1,new A.dj(b1,b1,b1,c,b1,B.ns,B.at),b1,new A.ap(6*(l/q.a),0,6*(n/o.a),34*(m/k.a)),new A.ap(20*(i/p.a),24*(d/e.a),20*(f/g.a),0),b1)],j),B.y,B.w,B.r),b1,B.aw,b1,b1,B.bH)],j),b1),B.av,b1)],j),B.a6,B.b9)}}
 A.a9Q.prototype={
-$0(){},
+$0(){self.flutterapp.postMessage("goback")},
 $S:0}
 A.a9R.prototype={
 $0(){},
@@ -67334,4 +67334,4 @@ var s=A.abp
 if(typeof dartMainRunner==="function")dartMainRunner(s,[])
 else s([])})})()
 
-//@ sourceURL=https://ibinbro.github.io/bnsplit/main.dart.e1509fec.js
+//@ sourceURL=https://ibinbro.github.io/bnsplit/main.dart.a3ccb398.js
