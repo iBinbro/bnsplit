@@ -5,18 +5,18 @@
     
     // window.mainjsManifest
     var mainjsManifest = {
-  "main.dart.js": "main.dart.e1509fec.js",
-  "main.dart_0.js": "main.dart_0.28220baa.js",
-  "main.dart_1.js": "main.dart_1.1860ad6b.js",
-  "main.dart_2.js": "main.dart_2.42685a7b.js",
-  "main.dart_3.js": "main.dart_3.a9ad305f.js",
-  "main.dart_4.js": "main.dart_4.71bf25ba.js",
-  "main.dart_5.js": "main.dart_5.9e78c1d9.js"
+  "main.dart.js": "main.dart.1dfac337.js",
+  "main.dart_0.js": "main.dart_0.202a8dca.js",
+  "main.dart_1.js": "main.dart_1.1deacab0.js",
+  "main.dart_2.js": "main.dart_2.5d2803ba.js",
+  "main.dart_3.js": "main.dart_3.dce5a2db.js",
+  "main.dart_4.js": "main.dart_4.31dfb541.js",
+  "main.dart_5.js": "main.dart_5.d8dca45e.js"
 };
     
     // window.hashFileManifest
     var hashFileManifest = {
-  "assets/AssetManifest.json": "assets/AssetManifest.a6e50d20.json",
+  "assets/AssetManifest.json": "assets/AssetManifest.a8291cae.json",
   "assets/FontManifest.json": "assets/FontManifest.d7517139.json",
   "assets/assets/b1.webp": "assets/assets/b1.2497759d.webp",
   "assets/assets/b2.webp": "assets/assets/b2.6782314e.webp",
@@ -47,6 +47,7 @@
   "assets/assets/svip_card_back.webp": "assets/assets/svip_card_back.3bb6417f.webp",
   "assets/assets/svip_id.webp": "assets/assets/svip_id.0a0b71d4.webp",
   "assets/assets/svip_top.webp": "assets/assets/svip_top.ab6a89bc.webp",
+  "assets/assets/vip/1.png": "assets/assets/vip/1.7982cf5e.png",
   "assets/assets/vip/1.webp": "assets/assets/vip/1.01ede943.webp",
   "assets/assets/vip/10.webp": "assets/assets/vip/10.be8b0089.webp",
   "assets/assets/vip/11.webp": "assets/assets/vip/11.c31d7547.webp",
@@ -61,13 +62,13 @@
   "assets/assets/vip/9.webp": "assets/assets/vip/9.854365dc.webp",
   "favicon.png": "favicon.5dcef449.png",
   "flutter.js": "flutter.822458aa.js",
-  "main.dart.js": "main.dart.e1509fec.js",
-  "main.dart_0.js": "main.dart_0.28220baa.js",
-  "main.dart_1.js": "main.dart_1.1860ad6b.js",
-  "main.dart_2.js": "main.dart_2.42685a7b.js",
-  "main.dart_3.js": "main.dart_3.a9ad305f.js",
-  "main.dart_4.js": "main.dart_4.71bf25ba.js",
-  "main.dart_5.js": "main.dart_5.9e78c1d9.js",
+  "main.dart.js": "main.dart.1dfac337.js",
+  "main.dart_0.js": "main.dart_0.202a8dca.js",
+  "main.dart_1.js": "main.dart_1.1deacab0.js",
+  "main.dart_2.js": "main.dart_2.5d2803ba.js",
+  "main.dart_3.js": "main.dart_3.dce5a2db.js",
+  "main.dart_4.js": "main.dart_4.31dfb541.js",
+  "main.dart_5.js": "main.dart_5.d8dca45e.js",
   "manifest.json": "manifest.0abe5cbd.json"
 };
     
