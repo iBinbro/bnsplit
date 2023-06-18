@@ -5,18 +5,18 @@
     
     // window.mainjsManifest
     var mainjsManifest = {
-  "main.dart.js": "main.dart.97132020.js",
-  "main.dart_0.js": "main.dart_0.f5fa73d7.js",
-  "main.dart_1.js": "main.dart_1.23f05561.js",
-  "main.dart_2.js": "main.dart_2.337c479c.js",
-  "main.dart_3.js": "main.dart_3.9acadaae.js",
-  "main.dart_4.js": "main.dart_4.d4056dae.js",
-  "main.dart_5.js": "main.dart_5.417cc1e3.js"
+  "main.dart.js": "main.dart.59ed4494.js",
+  "main.dart_0.js": "main.dart_0.78479f5d.js",
+  "main.dart_1.js": "main.dart_1.86db72e9.js",
+  "main.dart_2.js": "main.dart_2.9c1462fb.js",
+  "main.dart_3.js": "main.dart_3.43cdc105.js",
+  "main.dart_4.js": "main.dart_4.40d3737e.js",
+  "main.dart_5.js": "main.dart_5.a1b7ea00.js"
 };
     
     // window.hashFileManifest
     var hashFileManifest = {
-  "assets/AssetManifest.json": "assets/AssetManifest.a6e50d20.json",
+  "assets/AssetManifest.json": "assets/AssetManifest.d590eb61.json",
   "assets/FontManifest.json": "assets/FontManifest.d7517139.json",
   "assets/assets/b1.webp": "assets/assets/b1.2497759d.webp",
   "assets/assets/b2.webp": "assets/assets/b2.6782314e.webp",
@@ -24,12 +24,18 @@
   "assets/assets/b4.webp": "assets/assets/b4.17d8a929.webp",
   "assets/assets/b5.webp": "assets/assets/b5.d2b8f8b1.webp",
   "assets/assets/b6.webp": "assets/assets/b6.a10c348c.webp",
+  "assets/assets/busyline.webp": "assets/assets/busyline.67033022.webp",
   "assets/assets/buy_vip_back.webp": "assets/assets/buy_vip_back.30d5e3c5.webp",
   "assets/assets/buy_vip_card_top.webp": "assets/assets/buy_vip_card_top.5bd8ba5f.webp",
+  "assets/assets/call_icon.webp": "assets/assets/call_icon.c623484a.webp",
   "assets/assets/cube_left.webp": "assets/assets/cube_left.9ee8e8e1.webp",
   "assets/assets/cube_left_2.webp": "assets/assets/cube_left_2.455f653b.webp",
   "assets/assets/cube_right.webp": "assets/assets/cube_right.b1356f65.webp",
   "assets/assets/cube_right_2.webp": "assets/assets/cube_right_2.4976700b.webp",
+  "assets/assets/diamon.webp": "assets/assets/diamon.a1ea1617.webp",
+  "assets/assets/msg_icon.webp": "assets/assets/msg_icon.77245174.webp",
+  "assets/assets/offline.webp": "assets/assets/offline.881b7880.webp",
+  "assets/assets/online.webp": "assets/assets/online.ffe49c90.webp",
   "assets/assets/s_share.webp": "assets/assets/s_share.38293214.webp",
   "assets/assets/ss_share.webp": "assets/assets/ss_share.e0888522.webp",
   "assets/assets/sssvip_back.webp": "assets/assets/sssvip_back.f350d03a.webp",
@@ -61,13 +67,13 @@
   "assets/assets/vip/9.webp": "assets/assets/vip/9.854365dc.webp",
   "favicon.png": "favicon.5dcef449.png",
   "flutter.js": "flutter.822458aa.js",
-  "main.dart.js": "main.dart.97132020.js",
-  "main.dart_0.js": "main.dart_0.f5fa73d7.js",
-  "main.dart_1.js": "main.dart_1.23f05561.js",
-  "main.dart_2.js": "main.dart_2.337c479c.js",
-  "main.dart_3.js": "main.dart_3.9acadaae.js",
-  "main.dart_4.js": "main.dart_4.d4056dae.js",
-  "main.dart_5.js": "main.dart_5.417cc1e3.js",
+  "main.dart.js": "main.dart.59ed4494.js",
+  "main.dart_0.js": "main.dart_0.78479f5d.js",
+  "main.dart_1.js": "main.dart_1.86db72e9.js",
+  "main.dart_2.js": "main.dart_2.9c1462fb.js",
+  "main.dart_3.js": "main.dart_3.43cdc105.js",
+  "main.dart_4.js": "main.dart_4.40d3737e.js",
+  "main.dart_5.js": "main.dart_5.a1b7ea00.js",
   "manifest.json": "manifest.0abe5cbd.json"
 };
     
