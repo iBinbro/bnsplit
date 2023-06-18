@@ -2710,4 +2710,4 @@ var s=A.abp
 if(typeof dartMainRunner==="function")dartMainRunner(s,[])
 else s([])})})()
 
-//@ sourceURL=https://pretty-html-test.hanilink.com/main.dart.e1509fec.js
+//@ sourceURL=https://ibinbro.github.io/bnsplit/main.dart.e1509fec.js
