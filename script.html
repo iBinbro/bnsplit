@@ -51,19 +51,19 @@
         serviceWorker: {
           serviceWorkerVersion: serviceWorkerVersion,
         },
-        onEntrypointLoaded: function(engineInitializer) {
-          engineInitializer.initializeEngine().then(function(appRunner) {
+<!--        onEntrypointLoaded: function(engineInitializer) {-->
+<!--          engineInitializer.initializeEngine().then(function(appRunner) {-->
 
-            loading.remove();
+<!--            loading.remove();-->
 
-            appRunner.runApp();
-          })
-          .then(function(appRunner) {
-            window.setTimeout(function () {
-              loading.remove();
-            }, 200);
-          });
-        }
+<!--            appRunner.runApp();-->
+<!--          })-->
+<!--          .then(function(appRunner) {-->
+<!--            window.setTimeout(function () {-->
+<!--              loading.remove();-->
+<!--            }, 200);-->
+<!--          });-->
+<!--        }-->
       });
     });
   </script>
