@@ -50,6 +50,19 @@
       _flutter.loader.loadEntrypoint({
         serviceWorker: {
           serviceWorkerVersion: serviceWorkerVersion,
+        },
+        onEntrypointLoaded: function(engineInitializer) {
+          engineInitializer.initializeEngine().then(function(appRunner) {
+
+            loading.remove();
+
+            appRunner.runApp();
+          })
+          .then(function(appRunner) {
+            window.setTimeout(function () {
+              loading.remove();
+            }, 200);
+          });
         }
       });
     });
