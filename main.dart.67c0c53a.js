@@ -7555,8 +7555,9 @@ jA:function jA(){},
 Hs:function Hs(){},
 L8:function L8(){},
 auF(a){return a+100},
-aAC(){var s=t.N
-self.flutterapp.postMessage(A.a_t(A.a_w(new A.aC(A.a(document.cookie.split("; "),t.s),new A.afo(),t.md),s,s)))},
+aAC(){var s,r=document.cookie
+if((r==null?null:r.length!==0)===!0){s=t.N
+self.flutterapp.postMessage(A.a_t(A.a_w(new A.aC(A.a(r.split("; "),t.s),new A.afo(),t.md),s,s)))}},
 afo:function afo(){},
 aoF(){if($.ai==null)A.kz()
 $.ai.toString
@@ -67824,4 +67825,4 @@ var s=A.afI
 if(typeof dartMainRunner==="function")dartMainRunner(s,[])
 else s([])})})()
 
-//@ sourceURL=https://ibinbro.github.io/bnsplit/main.dart.55ab3a38.js
+//@ sourceURL=https://ibinbro.github.io/bnsplit/main.dart.67c0c53a.js
