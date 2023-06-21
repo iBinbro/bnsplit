@@ -1,5 +1,4 @@
-.a.c
-p=m.b
+=m.b
 if(p.a.a4Z(s)&&p.a.e!=null){p.c=p.a.a36(s)
 p.b=!1}}catch(o){r=A.ae(o)
 q=A.au(o)
@@ -4094,7 +4093,7 @@ a6n(a){var s,r,q,p,o,n=null
 try{r=this.a
 r===$&&A.b()
 q=t.z
-p=A.axV(A.aV(["user-agent","123"],t.N,q))
+p=A.axV(A.aV(["user-agent","123","user-agent99","999"],t.N,q))
 p.a="POST"
 r.AY(0,"https://test.hanilink.com/neapi2/channelpay/getPrettyProductByLevel/1",n,n,n,n,p,n,q).aB(new A.Wi(),t.P)}catch(o){s=A.ae(o)
 self.flutterapp.postMessage(J.cU(s))}}}
@@ -12866,4 +12865,4 @@ switch(s.c.a){case 0:return
 case 1:switch(d.a){case 1:A.ams(a,b,s)
 break
 case 0:if(c!=null&&!c.k(0,B.aA)){A.amt(a,b,s,c)
-return}A.amu(a,b,s)
+return}A

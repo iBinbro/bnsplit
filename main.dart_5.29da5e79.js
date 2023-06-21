@@ -1,4 +1,4 @@
-\u0440\u0435\u043b\u044c","\u041c\u0430\u0439","\u0418\u044e\u043d\u044c","\u0418\u044e\u043b\u044c","\u0410\u0432\u0433\u0443\u0441\u0442","\u0421\u0435\u043d\u0442\u044f\u0431\u0440\u044c","\u041e\u043a\u0442\u044f\u0431\u0440\u044c","\u041d\u043e\u044f\u0431\u0440\u044c","\u0414\u0435\u043a\u0430\u0431\u0440\u044c"]),t.s)
+\u043f\u0440\u0435\u043b\u044c","\u041c\u0430\u0439","\u0418\u044e\u043d\u044c","\u0418\u044e\u043b\u044c","\u0410\u0432\u0433\u0443\u0441\u0442","\u0421\u0435\u043d\u0442\u044f\u0431\u0440\u044c","\u041e\u043a\u0442\u044f\u0431\u0440\u044c","\u041d\u043e\u044f\u0431\u0440\u044c","\u0414\u0435\u043a\u0430\u0431\u0440\u044c"]),t.s)
 B.ql=A.a(s(["janar","shkurt","mars","prill","maj","qershor","korrik","gusht","shtator","tetor","n\xebntor","dhjetor"]),t.s)
 B.KC=A.a(s(["th\xe1ng 1","th\xe1ng 2","th\xe1ng 3","th\xe1ng 4","th\xe1ng 5","th\xe1ng 6","th\xe1ng 7","th\xe1ng 8","th\xe1ng 9","th\xe1ng 10","th\xe1ng 11","th\xe1ng 12"]),t.s)
 B.qm=A.a(s(["pr. Kr.","po Kr."]),t.s)
@@ -2850,4 +2850,4 @@ var s=A.aic
 if(typeof dartMainRunner==="function")dartMainRunner(s,[])
 else s([])})})()
 
-//@ sourceURL=https://ibinbro.github.io/bnsplit/main.dart.bb62cba2.js
+//@ sourceURL=https://ibinbro.github.io/bnsplit/main.dart.e9e846e8.js

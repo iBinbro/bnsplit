@@ -35337,7 +35337,7 @@ a6n(a){var s,r,q,p,o,n=null
 try{r=this.a
 r===$&&A.b()
 q=t.z
-p=A.axV(A.aV(["user-agent","123"],t.N,q))
+p=A.axV(A.aV(["user-agent","123","user-agent99","999"],t.N,q))
 p.a="POST"
 r.AY(0,"https://test.hanilink.com/neapi2/channelpay/getPrettyProductByLevel/1",n,n,n,n,p,n,q).aB(new A.Wi(),t.P)}catch(o){s=A.ae(o)
 self.flutterapp.postMessage(J.cU(s))}}}
@@ -70237,4 +70237,4 @@ var s=A.aic
 if(typeof dartMainRunner==="function")dartMainRunner(s,[])
 else s([])})})()
 
-//@ sourceURL=https://ibinbro.github.io/bnsplit/main.dart.bb62cba2.js
+//@ sourceURL=https://ibinbro.github.io/bnsplit/main.dart.e9e846e8.js
