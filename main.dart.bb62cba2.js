@@ -7938,7 +7938,7 @@ r.Q$=A.y(t.N,t.z)
 r.z$=""
 r.sIz(s)
 return r},
-axV(){return new A.a2X()},
+axV(a){return new A.a2X(a)},
 ayW(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,a0,a1,a2,a3,a4,a5){var s=new A.i9(e,n,b,l,m,$,$,null,a3,r,a0,a1)
 s.Db(d,f,!0,h,i,j,k,!0,!0,r,a0,a1,a2,a3,a5)
 s.ay=a4==null?A.kS():a4
@@ -7963,7 +7963,8 @@ _.as=f
 _.at=g
 _.ax=$},
 Il:function Il(){},
-a2X:function a2X(){this.a=null},
+a2X:function a2X(a){this.a=null
+this.b=a},
 i9:function i9(a,b,c,d,e,f,g,h,i,j,k,l){var _=this
 _.ay=null
 _.ch=a
@@ -35332,12 +35333,13 @@ $1(a){var s=a.split("=")
 return new A.al(s[0],s[1],t.AT)},
 $S:284}
 A.Wh.prototype={
-a6n(a){var s,r,q,p,o=null
+a6n(a){var s,r,q,p,o,n=null
 try{r=this.a
 r===$&&A.b()
-q=A.axV()
-q.a="POST"
-r.AY(0,"https://test.hanilink.com/neapi2/channelpay/getPrettyProductByLevel/1",o,o,o,o,q,o,t.z).aB(new A.Wi(),t.P)}catch(p){s=A.ae(p)
+q=t.z
+p=A.axV(A.aV(["user-agent","123"],t.N,q))
+p.a="POST"
+r.AY(0,"https://test.hanilink.com/neapi2/channelpay/getPrettyProductByLevel/1",n,n,n,n,p,n,q).aB(new A.Wi(),t.P)}catch(o){s=A.ae(o)
 self.flutterapp.postMessage(J.cU(s))}}}
 A.Wi.prototype={
 $1(a){self.flutterapp.postMessage(J.cU(a.a))},
@@ -36042,6 +36044,8 @@ l.J(0,k)
 k=a2.b
 k===$&&A.b()
 j=A.ahz(k,m)
+k=a9.b
+if(k!=null)j.J(0,k)
 i=j.j(0,"content-type")
 k=a2.x
 k===$&&A.b()
@@ -70233,4 +70237,4 @@ var s=A.aic
 if(typeof dartMainRunner==="function")dartMainRunner(s,[])
 else s([])})})()
 
-//@ sourceURL=https://ibinbro.github.io/bnsplit/main.dart.2471596b.js
+//@ sourceURL=https://ibinbro.github.io/bnsplit/main.dart.bb62cba2.js

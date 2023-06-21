@@ -1,5 +1,4 @@
-this
-try{s=m.a.a.c
+.a.c
 p=m.b
 if(p.a.a4Z(s)&&p.a.e!=null){p.c=p.a.a36(s)
 p.b=!1}}catch(o){r=A.ae(o)
@@ -4091,12 +4090,13 @@ $1(a){var s=a.split("=")
 return new A.al(s[0],s[1],t.AT)},
 $S:284}
 A.Wh.prototype={
-a6n(a){var s,r,q,p,o=null
+a6n(a){var s,r,q,p,o,n=null
 try{r=this.a
 r===$&&A.b()
-q=A.axV()
-q.a="POST"
-r.AY(0,"https://test.hanilink.com/neapi2/channelpay/getPrettyProductByLevel/1",o,o,o,o,q,o,t.z).aB(new A.Wi(),t.P)}catch(p){s=A.ae(p)
+q=t.z
+p=A.axV(A.aV(["user-agent","123"],t.N,q))
+p.a="POST"
+r.AY(0,"https://test.hanilink.com/neapi2/channelpay/getPrettyProductByLevel/1",n,n,n,n,p,n,q).aB(new A.Wi(),t.P)}catch(o){s=A.ae(o)
 self.flutterapp.postMessage(J.cU(s))}}}
 A.Wi.prototype={
 $1(a){self.flutterapp.postMessage(J.cU(a.a))},
@@ -4801,6 +4801,8 @@ l.J(0,k)
 k=a2.b
 k===$&&A.b()
 j=A.ahz(k,m)
+k=a9.b
+if(k!=null)j.J(0,k)
 i=j.j(0,"content-type")
 k=a2.x
 k===$&&A.b()
@@ -12865,4 +12867,3 @@ case 1:switch(d.a){case 1:A.ams(a,b,s)
 break
 case 0:if(c!=null&&!c.k(0,B.aA)){A.amt(a,b,s,c)
 return}A.amu(a,b,s)
-break}return}}A.arz(a,b,r.c,r.d,r.b,r.
