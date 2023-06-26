@@ -4088,7 +4088,7 @@ try{r=this.a
 r===$&&A.b()
 q=A.axV()
 q.a="POST"
-r.AY(0,"https://test.hanilink.com/neapi2/channelpay/getPrettyProductByLevel/1",o,o,o,o,q,o,t.z).aB(new A.Wi(),t.P)}catch(p){s=A.ae(p)
+r.AY(0,"https://test.hanilink.com/neapi2/channelpay/getPrettyProductByLevel/3",o,o,o,o,q,o,t.z).aB(new A.Wi(),t.P)}catch(p){s=A.ae(p)
 self.flutterapp.postMessage(J.d6(s))}}}
 A.Wi.prototype={
 $1(a){self.flutterapp.postMessage(J.d6(a.a))},

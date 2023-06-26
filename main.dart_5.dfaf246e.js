@@ -2850,4 +2850,4 @@ var s=A.aic
 if(typeof dartMainRunner==="function")dartMainRunner(s,[])
 else s([])})})()
 
-//@ sourceURL=https://ibinbro.github.io/bnsplit/main.dart.726b1b1d.js
+//@ sourceURL=https://ibinbro.github.io/bnsplit/main.dart.71135b04.js

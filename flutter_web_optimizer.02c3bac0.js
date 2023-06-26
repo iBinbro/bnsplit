@@ -5,11 +5,11 @@
     
     // window.mainjsManifest
     var mainjsManifest = {
-  "main.dart.js": "main.dart.726b1b1d.js",
+  "main.dart.js": "main.dart.71135b04.js",
   "main.dart.js_1.part.js": "main.dart.js_1.part.4846447f.js",
   "main.dart_0.js": "main.dart_0.87cb3b2c.js",
   "main.dart_1.js": "main.dart_1.c39c31f9.js",
-  "main.dart_2.js": "main.dart_2.963faa49.js",
+  "main.dart_2.js": "main.dart_2.f314167c.js",
   "main.dart_3.js": "main.dart_3.57770fd4.js",
   "main.dart_4.js": "main.dart_4.2fdd16d1.js",
   "main.dart_5.js": "main.dart_5.dfaf246e.js"
@@ -58,11 +58,11 @@
   "assets/assets/vip/3.webp": "assets/assets/vip/3.35b39c6d.webp",
   "favicon.png": "favicon.5dcef449.png",
   "flutter.js": "flutter.822458aa.js",
-  "main.dart.js": "main.dart.726b1b1d.js",
+  "main.dart.js": "main.dart.71135b04.js",
   "main.dart.js_1.part.js": "main.dart.js_1.part.4846447f.js",
   "main.dart_0.js": "main.dart_0.87cb3b2c.js",
   "main.dart_1.js": "main.dart_1.c39c31f9.js",
-  "main.dart_2.js": "main.dart_2.963faa49.js",
+  "main.dart_2.js": "main.dart_2.f314167c.js",
   "main.dart_3.js": "main.dart_3.57770fd4.js",
   "main.dart_4.js": "main.dart_4.2fdd16d1.js",
   "main.dart_5.js": "main.dart_5.dfaf246e.js",
