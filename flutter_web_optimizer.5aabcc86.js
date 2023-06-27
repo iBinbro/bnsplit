@@ -5,22 +5,26 @@
     
     // window.mainjsManifest
     var mainjsManifest = {
-  "main.dart.js": "main.dart.26e30de7.js",
-  "main.dart.js_1.part.js": "main.dart.js_1.part.bd9146e2.js",
+  "main.dart.js": "main.dart.590c1c81.js",
+  "main.dart.js_1.part.js": "main.dart.js_1.part.10e68e14.js",
   "main.dart.js_3.part.js": "main.dart.js_3.part.f4df3863.js",
-  "main.dart.js_4.part.js": "main.dart.js_4.part.33c02f12.js",
-  "main.dart_0.js": "main.dart_0.42bbca11.js",
-  "main.dart_1.js": "main.dart_1.d18448fb.js",
-  "main.dart_2.js": "main.dart_2.f9a7117e.js",
-  "main.dart_3.js": "main.dart_3.8d728922.js",
-  "main.dart_4.js": "main.dart_4.fb2ed16e.js",
-  "main.dart_5.js": "main.dart_5.27e2cda6.js"
+  "main.dart.js_4.part.js": "main.dart.js_4.part.28868d0e.js",
+  "main.dart.js_6.part.js": "main.dart.js_6.part.edc28d15.js",
+  "main.dart.js_7.part.js": "main.dart.js_7.part.f3b9ba13.js",
+  "main.dart_0.js": "main.dart_0.cc6a1c40.js",
+  "main.dart_1.js": "main.dart_1.f7d2faa1.js",
+  "main.dart_2.js": "main.dart_2.8d8a4bf9.js",
+  "main.dart_3.js": "main.dart_3.674e9a70.js",
+  "main.dart_4.js": "main.dart_4.0620a4cc.js",
+  "main.dart_5.js": "main.dart_5.39fe5d23.js"
 };
     
     // window.hashFileManifest
     var hashFileManifest = {
-  "assets/AssetManifest.json": "assets/AssetManifest.08578714.json",
+  "assets/AssetManifest.json": "assets/AssetManifest.da3e370d.json",
   "assets/FontManifest.json": "assets/FontManifest.d7517139.json",
+  "assets/assets/addvip.webp": "assets/assets/addvip.24682ced.webp",
+  "assets/assets/arrow_right.webp": "assets/assets/arrow_right.a4b19f47.webp",
   "assets/assets/b1.webp": "assets/assets/b1.2497759d.webp",
   "assets/assets/b2.webp": "assets/assets/b2.6782314e.webp",
   "assets/assets/b3.webp": "assets/assets/b3.d2b8f8b1.webp",
@@ -33,11 +37,13 @@
   "assets/assets/msg_icon.webp": "assets/assets/msg_icon.77245174.webp",
   "assets/assets/offline.webp": "assets/assets/offline.881b7880.webp",
   "assets/assets/online.webp": "assets/assets/online.ffe49c90.webp",
+  "assets/assets/refresh_icon.webp": "assets/assets/refresh_icon.bda4e3fa.webp",
   "assets/assets/s.webp": "assets/assets/s.35b39c6d.webp",
   "assets/assets/s_cube_left.webp": "assets/assets/s_cube_left.9ee8e8e1.webp",
   "assets/assets/s_cube_right.webp": "assets/assets/s_cube_right.b1356f65.webp",
   "assets/assets/s_flag.webp": "assets/assets/s_flag.bbd1fbf2.webp",
   "assets/assets/s_share.webp": "assets/assets/s_share.38293214.webp",
+  "assets/assets/sendvipback.webp": "assets/assets/sendvipback.b87f41c7.webp",
   "assets/assets/ss.webp": "assets/assets/ss.091865a2.webp",
   "assets/assets/ss_cube_left.webp": "assets/assets/ss_cube_left.455f653b.webp",
   "assets/assets/ss_cube_right.webp": "assets/assets/ss_cube_right.4976700b.webp",
@@ -64,16 +70,18 @@
   "assets/assets/svip_top.webp": "assets/assets/svip_top.e2b49c6d.webp",
   "favicon.png": "favicon.5dcef449.png",
   "flutter.js": "flutter.822458aa.js",
-  "main.dart.js": "main.dart.26e30de7.js",
-  "main.dart.js_1.part.js": "main.dart.js_1.part.bd9146e2.js",
+  "main.dart.js": "main.dart.590c1c81.js",
+  "main.dart.js_1.part.js": "main.dart.js_1.part.10e68e14.js",
   "main.dart.js_3.part.js": "main.dart.js_3.part.f4df3863.js",
-  "main.dart.js_4.part.js": "main.dart.js_4.part.33c02f12.js",
-  "main.dart_0.js": "main.dart_0.42bbca11.js",
-  "main.dart_1.js": "main.dart_1.d18448fb.js",
-  "main.dart_2.js": "main.dart_2.f9a7117e.js",
-  "main.dart_3.js": "main.dart_3.8d728922.js",
-  "main.dart_4.js": "main.dart_4.fb2ed16e.js",
-  "main.dart_5.js": "main.dart_5.27e2cda6.js",
+  "main.dart.js_4.part.js": "main.dart.js_4.part.28868d0e.js",
+  "main.dart.js_6.part.js": "main.dart.js_6.part.edc28d15.js",
+  "main.dart.js_7.part.js": "main.dart.js_7.part.f3b9ba13.js",
+  "main.dart_0.js": "main.dart_0.cc6a1c40.js",
+  "main.dart_1.js": "main.dart_1.f7d2faa1.js",
+  "main.dart_2.js": "main.dart_2.8d8a4bf9.js",
+  "main.dart_3.js": "main.dart_3.674e9a70.js",
+  "main.dart_4.js": "main.dart_4.0620a4cc.js",
+  "main.dart_5.js": "main.dart_5.39fe5d23.js",
   "manifest.json": "manifest.0abe5cbd.json"
 };
     
