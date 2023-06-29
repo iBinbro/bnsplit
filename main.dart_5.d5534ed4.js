@@ -1,4 +1,4 @@
-e \u0924\u093f\u092e\u093e\u0939\u0940","\u0926\u094d\u0935\u093f\u0924\u0940\u092f \u0924\u093f\u092e\u093e\u0939\u0940","\u0924\u0943\u0924\u0940\u092f \u0924\u093f\u092e\u093e\u0939\u0940","\u091a\u0924\u0941\u0930\u094d\u0925 \u0924\u093f\u092e\u093e\u0939\u0940"]),t.s)
+092e \u0924\u093f\u092e\u093e\u0939\u0940","\u0926\u094d\u0935\u093f\u0924\u0940\u092f \u0924\u093f\u092e\u093e\u0939\u0940","\u0924\u0943\u0924\u0940\u092f \u0924\u093f\u092e\u093e\u0939\u0940","\u091a\u0924\u0941\u0930\u094d\u0925 \u0924\u093f\u092e\u093e\u0939\u0940"]),t.s)
 B.cK=A.a(s(["\u65e5","\u4e00","\u4e8c","\u4e09","\u56db","\u4e94","\u516d"]),t.s)
 B.r9=A.a(s(["So.","Ma.","Di.","Wo.","Do.","Vr.","Sa."]),t.s)
 B.Mg=A.a(s(["1. nelj\xe4nnes","2. nelj\xe4nnes","3. nelj\xe4nnes","4. nelj\xe4nnes"]),t.s)
@@ -2965,4 +2965,4 @@ var s=A.ape
 if(typeof dartMainRunner==="function")dartMainRunner(s,[])
 else s([])})})()
 
-//@ sourceURL=https://ibinbro.github.io/bnsplit/main.dart.e2c5d0d6.js
+//@ sourceURL=https://ibinbro.github.io/bnsplit/main.dart.0b8d2ca1.js
