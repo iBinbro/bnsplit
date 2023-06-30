@@ -20730,7 +20730,7 @@ f.toString
 if(i instanceof f){f=i
 f.toString
 h=f
-if(h.status===404&&b==="AssetManifest.4506acd9.json"){$.dA().$1("Asset manifest does not exist at `"+A.k(d)+"` \u2013 ignoring.")
+if(h.status===404&&b==="AssetManifest.json"){$.dA().$1("Asset manifest does not exist at `"+A.k(d)+"` \u2013 ignoring.")
 q=A.k1(new Uint8Array(A.kK(B.a_.gtg().ev("{}"))).buffer,0,null)
 s=1
 break}f=A.aDN(h)
@@ -21592,7 +21592,7 @@ var $async$oS=A.S(function(a4,a5){if(a4===1){o=a5
 s=p}while(true)switch(s){case 0:b=null
 p=4
 s=7
-return A.Z(a3.cX(0,"FontManifest.d7517139.json"),$async$oS)
+return A.Z(a3.cX(0,"FontManifest.json"),$async$oS)
 case 7:b=a5
 p=2
 s=6
@@ -21609,7 +21609,7 @@ break
 case 3:s=2
 break
 case 6:j=t.jS.a(B.P.e3(0,B.a_.e3(0,A.cv(b.buffer,0,null))))
-if(j==null)throw A.c(A.pb("There was a problem trying to load FontManifest.d7517139.json"))
+if(j==null)throw A.c(A.pb("There was a problem trying to load FontManifest.json"))
 i=A.a([],t.EI)
 for(k=t.a,h=J.ih(j,k),h=new A.cc(h,h.gp(h)),g=t.j,f=A.n(h).c;h.t();){e=h.d
 if(e==null)e=f.a(e)
@@ -42934,7 +42934,7 @@ gmH(){return this.a},
 u3(a){var s,r={},q=a.a
 if(q==null)q=$.Dx()
 r.a=r.b=null
-q.a57("AssetManifest.4506acd9.json",A.aMb(),t.jd).aE(new A.XM(r,this,a,q),t.H).hD(new A.XN(r))
+q.a57("AssetManifest.json",A.aMb(),t.jd).aE(new A.XM(r,this,a,q),t.H).hD(new A.XN(r))
 s=r.a
 if(s!=null)return s
 s=new A.ab($.af,t.hv)
@@ -69161,5 +69161,3 @@ a(b.target)}for(var r=0;r<s.length;++r)s[r].addEventListener("load",onLoad,false
 var s=A.ap9
 if(typeof dartMainRunner==="function")dartMainRunner(s,[])
 else s([])})})()
-
-//@ sourceURL=https://ibinbro.github.io/bnsplit/main.dart.7b636d9b.js
