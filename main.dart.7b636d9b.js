@@ -22978,7 +22978,7 @@ q9(a){return A.aqZ(new A.rC("Paste is not implemented for this browser."),null,t
 A.a2T.prototype={
 gI5(){var s=this.b
 s=s==null?null:s.canvasKitBaseUrl
-return s==null?"https://unpkg.com/canvaskit-wasm@0.37.1/bin/":s},
+return s==null?"canvaskit/":s},
 gI6(){var s=this.b
 s=s==null?null:s.canvasKitForceCpuOnly
 return s===!0},
@@ -69162,4 +69162,4 @@ var s=A.ap9
 if(typeof dartMainRunner==="function")dartMainRunner(s,[])
 else s([])})})()
 
-//@ sourceURL=https://ibinbro.github.io/bnsplit/main.dart.87181d94.js
+//@ sourceURL=https://ibinbro.github.io/bnsplit/main.dart.7b636d9b.js

@@ -1,4 +1,4 @@
-":return new A.Js(i)
+se"az":return new A.Js(i)
 case"be":return new A.Jt(i)
 case"bg":return new A.Ju(i)
 case"bn":return new A.Jv(i)
@@ -4218,7 +4218,7 @@ q9(a){return A.aqZ(new A.rC("Paste is not implemented for this browser."),null,t
 A.a2T.prototype={
 gI5(){var s=this.b
 s=s==null?null:s.canvasKitBaseUrl
-return s==null?"https://unpkg.com/canvaskit-wasm@0.37.1/bin/":s},
+return s==null?"canvaskit/":s},
 gI6(){var s=this.b
 s=s==null?null:s.canvasKitForceCpuOnly
 return s===!0},
@@ -13986,4 +13986,5 @@ $2(a,b){var s=this.a
 return A.m4(B.p,this.b,null,null,s.b.ai(0,s.a))},
 $S:102}
 A.la.prototype={
-d_(){return A.azp(this)
+d_(){return A.azp(this)},
+k(a){return B.P.d4(th

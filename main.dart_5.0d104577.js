@@ -1,5 +1,4 @@
-")
-B.a0C=A.aV("aI1")
+A.aV("aI1")
 B.a0D=A.aV("cA")
 B.a0E=A.aV("ov")
 B.a0F=A.aV("ou")
@@ -716,4 +715,4 @@ var s=A.ap9
 if(typeof dartMainRunner==="function")dartMainRunner(s,[])
 else s([])})})()
 
-//@ sourceURL=https://ibinbro.github.io/bnsplit/main.dart.87181d94.js
+//@ sourceURL=https://ibinbro.github.io/bnsplit/main.dart.7b636d9b.js
