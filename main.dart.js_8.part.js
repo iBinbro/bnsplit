@@ -435,7 +435,7 @@ B.UY.prototype={
 a2(){this.U0()
 this.d=A.tG("pretty_row_display_lib",0)
 this.e=A.tG("benifit_lib.1",0)},
-F(d){var x,w,v,u,t,s,r,q,p,o,n,m,l,k,j,i,h,g=null
+F(d){var x,w,v,u,t,s,r,q,p,o,n,m,l,k,j,i,h,g,f=null
 this.rm(d)
 x=$.f()
 w=x.gn()
@@ -472,19 +472,24 @@ k=$.f()
 j=k.gn()
 k=k.a
 k===$&&A.b()
-k=A.ag(g,A.aM(A.bj("popularLuckyId"),g,g,g,A.aG(g,g,C.cI,g,g,g,g,g,g,g,g,18*$.f().gau(),g,g,C.A,g,g,!0,g,g,g,g,g,g,g,g),g),C.i,g,g,g,g,g,new A.aa(0,12*(n/o.a),12*(l/m.a),20*(j/k.a)),g)
-j=A.aM(A.bj("showAllOfThem"),g,g,g,A.aG(g,g,C.dx,g,g,g,g,g,g,g,g,14*$.f().gau(),g,g,g,g,g,!0,g,g,g,g,g,g,g,g),g)
-m=$.f()
-l=m.gn()
-m=m.a
-m===$&&A.b()
-o=$.f()
-n=o.gn()
-o=o.a
-o===$&&A.b()
-i=y.p
-h=y.H
-return A.bg(A.a([A.ag(g,A.bg(A.a([A.bw(A.a([k,A.cn(C.a2,A.bw(A.a([j,A.ba("assets/arrow_right.webp",g,20*(n/o.a),!1,20*(l/m.a))],i),C.o,C.B,C.p),C.F,!1,g,g,g,g,g,g,g,g,g,g,g,g,g,g,new B.ake(),g,g,g,g,g,g)],i),C.o,C.ag,C.p),D.I8],i),C.o,C.B,C.p),C.i,g,g,new A.aF(g,g,q,p,g,g,C.t),g,new A.aa(12*(v/w.a),0,12*(t/u.a),24*(r/s.a)),new A.aa(x,x,x,x),g),A.HK(new B.akf(),this.d,h),A.HK(new B.akg(),this.e,h)],i),C.o,C.B,C.p)},
+k=A.ag(f,A.aM(A.bj("popularLuckyId"),f,f,f,A.aG(f,f,C.cI,f,f,f,f,f,f,f,f,18*$.f().gau(),f,f,C.A,f,f,!0,f,f,f,f,f,f,f,f),f),C.i,f,f,f,f,f,new A.aa(0,12*(n/o.a),12*(l/m.a),20*(j/k.a)),f)
+j=$.f()
+m=j.gn()
+j=j.a
+j===$&&A.b()
+j=10*(m/j.a)
+m=A.aM(A.bj("showAllOfThem"),f,f,f,A.aG(f,f,C.dx,f,f,f,f,f,f,f,f,14*$.f().gau(),f,f,f,f,f,!0,f,f,f,f,f,f,f,f),f)
+l=$.f()
+o=l.gn()
+l=l.a
+l===$&&A.b()
+n=$.f()
+i=n.gn()
+n=n.a
+n===$&&A.b()
+h=y.p
+g=y.H
+return A.bg(A.a([A.ag(f,A.bg(A.a([A.bw(A.a([k,A.cn(C.a2,A.ag(f,A.bw(A.a([m,A.ba("assets/arrow_right.webp",f,20*(i/n.a),!1,20*(o/l.a))],h),C.o,C.B,C.p),C.i,f,f,f,f,f,new A.aa(j,j,j,j),f),C.F,!1,f,f,f,f,f,f,f,f,f,f,f,f,f,f,new B.ake(),f,f,f,f,f,f)],h),C.o,C.ag,C.p),D.I8],h),C.o,C.B,C.p),C.i,f,f,new A.aF(f,f,q,p,f,f,C.t),f,new A.aa(12*(v/w.a),0,12*(t/u.a),24*(r/s.a)),new A.aa(x,x,x,x),f),A.HK(new B.akf(),this.d,g),A.HK(new B.akg(),this.e,g)],h),C.o,C.B,C.p)},
 gnL(){return!0}}
 B.vO.prototype={
 Y(){return new B.T_(C.j)}}
@@ -2126,4 +2131,4 @@ D.IE=new A.c7(0.3,0.8,C.aG)
 D.R_=A.a(x([0,-0.9,-0.6,-0.3]),A.af("u<O>"))
 D.yg=new B.a9I(1,"intersect")
 D.a6q=new B.adj(0,"start")})()}
-$__dart_deferred_initializers__["FvktWXGsEOhBEeehqsvqNJnhNUs="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["a5hHiRZlue6uwjbVUQo/XGkDP9k="] = $__dart_deferred_initializers__.current
