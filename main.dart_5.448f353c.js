@@ -2958,4 +2958,4 @@ var s=A.apz
 if(typeof dartMainRunner==="function")dartMainRunner(s,[])
 else s([])})})()
 
-//@ sourceURL=https://ibinbro.github.io/bnsplit/main.dart.5a3bfa13.js
+//@ sourceURL=https://ibinbro.github.io/bnsplit/main.dart.e253f067.js
