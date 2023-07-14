@@ -23011,7 +23011,7 @@ $1(a){var s=$.cY
 s=(s==null?$.cY=A.hP(self.window.flutterConfiguration):s).b
 if(s==null)s=null
 else{s=s.canvasKitBaseUrl
-if(s==null)s=null}return(s==null?"https://www.gstatic.com/flutter-canvaskit/cdbeda788a293fa29665dc3fa3d6e63bd221cb0d/":s)+a},
+if(s==null)s=null}return(s==null?"canvaskit/":s)+a},
 $S:23}
 A.an3.prototype={
 $1(a){this.a.remove()
