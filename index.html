@@ -23,27 +23,25 @@
   <!-- iOS meta tags & icons -->
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
-  <meta name="apple-mobile-web-app-title" content="bn">
+  <meta name="apple-mobile-web-app-title" content="testweb">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
 
-  <title>bn</title>
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="favicon.png"/>
+
+  <title>testweb</title>
   <link rel="manifest" href="manifest.json">
 
   <script>
     // The value below is injected by flutter build, do not touch.
-    var serviceWorkerVersion = "1179733442";
+    var serviceWorkerVersion = "1752118007";
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
-
-  <style> .loading{ display: flex; align-items: center; justify-content: center; height: 100vh; } .loader{ border: 9px solid #ffffff; border-radius: 50%; border-top: 9px solid #3498db; width: 90px; height: 90px; animation: spin 1s linear infinite; } @keyframes spin{ 0% {transform: rotate(0deg);} 100% {transform: rotate(360deg);} } </style>
 </head>
 <body>
-<div id="loading" class="loading"> <div class="loader"></div> </div>
-<script>
+  <script>
     window.addEventListener('load', function(ev) {
-
-      var loading = document.querySelector("#loading");
-
       // Download main.dart.js
       _flutter.loader.loadEntrypoint({
         serviceWorker: {
@@ -51,15 +49,7 @@
         },
         onEntrypointLoaded: function(engineInitializer) {
           engineInitializer.initializeEngine().then(function(appRunner) {
-
-            loading.remove();
-
             appRunner.runApp();
-          })
-          .then(function(appRunner) {
-            window.setTimeout(function () {
-              loading.remove();
-            }, 200);
           });
         }
       });
